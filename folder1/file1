@@ -2,4 +2,3 @@ file1
 should not trigger pipeline
 should trigger only pipelice CICD1
 should trigger only pipelice CICD1
-should trigger only pipelice CICD1
